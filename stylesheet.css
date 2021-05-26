@@ -141,7 +141,7 @@ body {
 #side .box {
 	margin: 0 auto 30px auto;
 	padding: 0 0 20px 0;
-	background: url(![side_box](https://user-images.githubusercontent.com/83019429/119378256-0879a300-bcf9-11eb-8baf-d5246ac52897.png) bottom no-repeat;
+	background: url(https://github.com/raise590/samurai_HTML-CSS/blob/master/imgs/side_box.png?raw=true) bottom no-repeat;
 }
 #side .box h2 {
 	margin: 0;
@@ -151,7 +151,7 @@ body {
 	font-size: 16px;
 	line-height: 16px;
 	font-weight: normal;
-	background: url(![side_box_h2](https://user-images.githubusercontent.com/83019429/119378379-30690680-bcf9-11eb-84e0-3aaec1039103.png) center no-repeat;
+	background: url(https://github.com/raise590/samurai_HTML-CSS/blob/master/imgs/side_box_h2.png?raw=true) center no-repeat;
 }
 #side .box .boxbody {
 	padding: 8px;
